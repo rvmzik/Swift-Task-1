@@ -1,3 +1,4 @@
+// 1 Task
 var fullname = (name:"Alex", surname:"Mercer") //tuple
 let birthDate = "07.11.1990"
 let height = "350"
